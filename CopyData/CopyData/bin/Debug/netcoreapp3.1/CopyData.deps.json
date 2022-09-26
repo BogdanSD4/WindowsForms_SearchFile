@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CopyData/1.0.0": {
+        "dependencies": {
+          "WindowsForms": "1.0.0"
+        },
+        "runtime": {
+          "CopyData.dll": {}
+        }
+      },
+      "WindowsForms/1.0.0": {
+        "runtime": {
+          "WindowsForms.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopyData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
